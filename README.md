@@ -1,2 +1,2 @@
 # medical-data-visualizer
-to create this medical data visualizer pythons matplotlip, seaborn and pandas library was used. First i installed the libraries. Following steps proceeds next,. 1.Load the Data and Explore the Dataset
+to create this medical data visualizer pythons matplotlip, seaborn and pandas library was used. First i installed the libraries. Following steps proceeds next,. 1.Load the Data and Explore the Dataset, 2. Create the Overweight Column, 3. Normalize Cholesterol and Glucose Columns, 4. Create the Categorical Plot,5. Clean the Data for the Heatmap, 6. Generate the Correlation Matrix and Heatmap ,7. Testing
